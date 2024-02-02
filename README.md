@@ -2,6 +2,14 @@
 
 ## Overview
 This README file provides an overview of the Titanic Data Analysis project. The project involves exploring and analyzing the Titanic dataset, performing data cleaning, and building a decision tree model to predict survival.
+## Getting Started
+#Prerequisites
+Make sure you have the following Python packages installed:
+
+numpy
+pandas
+scikit-learn
+You can install them using:
 
 ## Dataset
 The Titanic dataset is a well-known dataset in the field of machine learning and data science. It contains information about passengers on the Titanic, including details such as age, gender, ticket class, and whether they survived or not.
