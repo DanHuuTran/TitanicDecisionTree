@@ -3,7 +3,7 @@
 ## Overview
 This README file provides an overview of the Titanic Data Analysis project. The project involves exploring and analyzing the Titanic dataset, performing data cleaning, and building a decision tree model to predict survival.
 ## Getting Started
-#Prerequisites
+### Prerequisites
 Make sure you have the following Python packages installed:
 
  > numpy
